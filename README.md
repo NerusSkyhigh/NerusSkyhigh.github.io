@@ -1,72 +1,67 @@
-# [Start Bootstrap - Resume](https://startbootstrap.com/themes/resume/)
+### Hi there, I'm Guglielmo Grillo - aka [NerusSkyhigh][website] 👋
 
-[Resume](https://startbootstrap.com/themes/resume/) is a resume and CV theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
 
-## Preview
+<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 
-[![Resume Preview](https://startbootstrap.com/assets/img/screenshots/themes/resume.png)](https://startbootstrap.github.io/startbootstrap-resume/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-resume/)**
+I'm a Physics Student, traceur, storyteller and overall a curious person!
 
-## Status
+<!--
+- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and play guitar / drums
+-->
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-resume/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-resume.svg)](https://www.npmjs.com/package/startbootstrap-resume)
-[![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-resume.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-resume)
-[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-resume/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-resume)
-[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-resume/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-resume?type=dev)
+### University 📖
+I'm currently getting a Master Degree in Physics. My specialisation path is Statistical Mechanics with a focus on computational methods. I choose this path because...
 
-## Download and Installation
+---
 
-To begin using this template, choose one of the following options to get started:
+### Progetto Apollo 🚀
 
-- [Download the latest release on Start Bootstrap](https://startbootstrap.com/themes/resume/)
-- Install using npm: `npm i startbootstrap-resume`
-- Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-resume.git`
-- [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-resume)
+---
 
-## Usage
+### Parkour 🏃🔥
+After spending many years without finding something I really enjoy doing, I came across parkour in my second year of University. It was a revelation: parkour is freedom, rules and challenges all at the same time. I'm definitely not a pro, but I never miss an opportunity to challenge myself. My next goal is to manage to perform a front flip.
 
-### Basic Usage
+---
 
-After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+### Videogames 🎮
+Games are a big part of my life because they represent how I aim to live my life: with a good story worth to be told, challenging and always with more room for improvement.
 
-### Advanced Usage
+Lately I've been playing a lot of Doom Eternal, right now my goal is to beat again the DLC at Nightmare without using the Sentinel Armor during the last boss battle.
 
-Clone the source files of the theme and navigate into the theme's root directory. Run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
+<details>
+  <summary>Other games I loved, in no particular order, are:</summary>
+  <img alt="Hollow Knight" width="184px" height="69px" src="assets/games/hollowknight.jpg" />
+  <img alt="Sekiro™: Shadows Die Twice" width="184px" height="69px" src="assets/games/sekiro.jpg" />
+  <img alt="Celeste" width="184px" height="69px" src="assets/games/celeste.jpg" />
+  <img alt="Dark Souls" width="184px" height="69px" src="assets/games/darksouls.jpg" />
+  <img alt="Portal 1&2" width="184px" height="69px" src="assets/games/portal2.jpg" />
+  <img alt="Half Life Series" width="184px" height="69px" src="assets/games/hl2.jpg" />
+</details>
 
-#### npm Scripts
+---
 
-- `npm run build` builds the project - this builds assets, HTML, JS, and CSS into `dist`
-- `npm run build:assets` copies the files in the `src/assets/` directory into `dist`
-- `npm run build:pug` compiles the Pug located in the `src/pug/` directory into `dist`
-- `npm run build:scripts` brings the `src/js/scripts.js` file into `dist`
-- `npm run build:scss` compiles the SCSS files located in the `src/scss/` directory into `dist`
-- `npm run clean` deletes the `dist` directory to prepare for rebuilding the project
-- `npm run start:debug` runs the project in debug mode
-- `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
 
-You must have npm installed in order to use this build environment.
+### Connect with me:
 
-## Bugs and Issues
+[<img align="left" alt="." width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-resume/issues) here on GitHub or leave a comment on the [theme overview page at Start Bootstrap](https://startbootstrap.com/themes/resume/).
+<br />
 
-## About
+### Languages and Tools:
 
-Start Bootstrap is an open source library of free Bootstrap themes and templates. All of the free themes and templates on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+[<img align="left" alt="Visual Studio Code" width="26px" src="assets/icons/python.svg" />][website]
 
-- <https://startbootstrap.com>
-- <https://twitter.com/SBootstrap>
+<!-- https://simpleicons.org/ -->
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**.
 
-- <http://davidmiller.io>
-- <https://twitter.com/davidmillerskt>
-- <https://github.com/davidtmiller>
-
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2020 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-resume/blob/gh-pages/LICENSE) license.
+[website]: .
+[instagram]: https://www.instagram.com/_sir_gg_/
+[linkedin]: https://www.linkedin.com/in/guglielmo-grillo/
