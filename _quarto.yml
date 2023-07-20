@@ -1,0 +1,30 @@
+# GUIDE: https://albert-rapp.de/posts/13_quarto_blog_writing_guide/13_quarto_blog_writing_guide.html
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Guglielmo Grillo" # "NerusSkyhigh's Personal Blog"
+  site-url: https://nerusskyhigh.github.io/
+  description: "Guglielmo Grillo/nerusskyhigh's personal Blog."
+  navbar:
+    right:
+      - index.qmd
+      #- Projects/index.qmd
+      #- archive.qmd
+      - text: "CV"
+        file: assets/G_Grillo_Curriculum_Vitae.pdf
+      - icon: github
+        href: https://github.com/nerusskyhigh
+      - icon: linkedin
+        href: https://www.linkedin.com/in/guglielmo-grillo/
+      - icon: envelope
+        href: mailto:cv@guglielmogrillo.com
+format:
+  html:
+    theme: superhero
+    
+    css: styles.css
+
+
+
