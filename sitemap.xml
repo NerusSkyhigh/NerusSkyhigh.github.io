@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/NerusSkyhigh/NerusSkyhigh.github.io/Projects/index.html</loc>
-    <lastmod>2023-07-18T14:12:06.088Z</lastmod>
+    <loc>https://nerusskyhigh.github.io/Projects/index.html</loc>
+    <lastmod>2023-07-20T13:45:56.540Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/NerusSkyhigh/NerusSkyhigh.github.io/index.html</loc>
-    <lastmod>2023-07-18T14:12:05.334Z</lastmod>
+    <loc>https://nerusskyhigh.github.io/index.html</loc>
+    <lastmod>2023-07-20T13:45:55.537Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/NerusSkyhigh/NerusSkyhigh.github.io/blog.html</loc>
-    <lastmod>2023-07-18T14:12:04.759Z</lastmod>
+    <loc>https://nerusskyhigh.github.io/archive.html</loc>
+    <lastmod>2023-07-20T13:45:54.458Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/NerusSkyhigh/NerusSkyhigh.github.io/posts/welcome/index.html</loc>
-    <lastmod>2023-07-18T14:12:05.705Z</lastmod>
+    <loc>https://nerusskyhigh.github.io/blog.html</loc>
+    <lastmod>2023-07-20T13:45:54.943Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nerusskyhigh.github.io/posts/welcome/index.html</loc>
+    <lastmod>2023-07-20T13:45:56.174Z</lastmod>
   </url>
 </urlset>
