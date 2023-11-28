@@ -1,0 +1,11 @@
+{
+  "hash": "d877b3aaf3e0fc27a307b65ec5fd343f",
+  "result": {
+    "markdown": "---\ntitle: \"About Me\"\nimage: profile.jpg\nabout:\n  template: jolla\n  links:\n    - icon: twitter\n      text: Twitter\n      href: https://twitter.com\n    - icon: linkedin\n      text: LinkedIn\n      href: https://linkedin.com\n    - icon: github\n      text: Github\n      href: https://github.com\n\n---\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n\n::: {.justify}\n\nI am a recently graduated Physicist (MSc, University of Trento), with a strong passion for computational physics, programming, and complex systems. During my studies, I focused on statistical physics, biophysics and advanced computation, both through the choice of courses and my bachelor's and master's theses. I am a founding member of Progetto Apollo, a scientific divulgation group operating at the University of Trento in collaboration with Arditodesìo. Since 2019 I’ve been a tutor for the University of Trento. My hobbies include video games and parkour.\n\n::: \n\n",
+    "supporting": [
+      "index_files\\figure-html"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
