@@ -17,20 +17,20 @@ callout-appearance: simple
 ---
 
 <div style="text-align: justify">
-I am a recently graduated Physicist (MSc, University of Trento), with a strong passion for computational physics, complex systems, and machine learning. During my studies, I focused on statistical physics, biophysics and advanced computation, both through the choice of courses and my bachelor's and master's theses. I am a founding member of Progetto Apollo, a scientific divulgation group operating at the University of Trento in collaboration with Arditodesìo. Since 2019 I’ve been a tutor for the University of Trento. My hobbies include video games and parkour.
-</div>
+I’m a PhD student in Physics at the University of Trento (Statistical and Biological Physics group) with a strong passion for computer science. This passion led me to choose a computational path both for my curricular and extracurricular classes during my bachelor's and Master's degrees and to work on personal projects in my free time. I’m also one of the founding members of Progetto Apollo, a scientific divulgation group operating at the University of Trento in collaboration with Arditodesìo. Since 2019 I’ve been a tutor for the University of Trento. My hobbies include video games and parkour.</div>
 
 ---
 
 # Curriculum Vitae
-[Complete CV (pdf)&nbsp;&nbsp;<i class="bi bi-download"></i>](assets/G_Grillo_Curriculum_Vitae.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Download my CV in pdf format"}&emsp;
-[Old Web Version <i class="bi bi-link-45deg"></i>](https://nerusskyhigh.github.io/online-cv/){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Download my CV in pdf format"}
+[Complete Curriculum Vitae (pdf)](assets/G_Grillo_Curriculum_Vitae.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Download my CV in pdf format"}  
+  
+[Old Version](https://nerusskyhigh.github.io/online-cv/){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Download my CV in pdf format"}
 </br>
 </br>
 
 ### Work Experience
 
-#### Classroom Tutor&nbsp;&nbsp;<i class="bi bi-person-workspace"></i>
+#### Classroom Tutor <i class="bi bi-person-workspace"></i>
 <div style="text-align: justify">
 In the in-class courses, my task as a tutor was to prepare ad-hoc exercises beforehand and then follow the students in their reasoning by providing hints and guidance toward the solution. In the laboratory courses, our job was to explain the lab experiences to the students and assist them in the data collection and analysis ensuring that they understood the underlying reasoning and scientific approach.
 
@@ -51,9 +51,8 @@ of a team of 2 to 4 tutors.
 :::
 </div>
 
-</br>
 
-#### Storyteller / Science Communicator&nbsp;&nbsp;<i class="bi bi-pen"></i>
+#### Storyteller / Science Communicator <i class="bi bi-pen"></i>
 <div style="text-align: justify">
 I'm one of the founding members of Progetto Apollo, a scientific divulgation group operating at the University of Trento in collaboration with Arditodesìo. Some of our activities include research on a key topic or an interview with a Professor at the University of Trento to write narratives with the principles of storytelling.
 
@@ -68,10 +67,21 @@ The plays were then performed in the course of various editions of Teatro della 
 
 </br>
 </br>
+</br>
 
 ### Education and Training
 
-#### Master's Degree in Physics&nbsp;&nbsp;<i class="bi bi-mortarboard"></i>
+#### PhD in  Physics <i class="bi bi-mortarboard"></i>
+<div style="text-align: justify">
+
+**Scholarship**: _Combining physics, biology and machine learning to understand genome organization in cancer cells_. 
+**Grou:**: [Statistical and Biological Physics Group](https://sbp.physics.unitn.it/)  
+**Supervisor**: prof. [L. Tubiana](https://sbp.physics.unitn.it/luca-tubiana/)
+</div>
+
+</br>
+
+#### Master's Degree in Physics <i class="bi bi-mortarboard"></i>
 <div style="text-align: justify">
 
 **Path**: _Statistical Biophysics_ with a focus on computational methods  
@@ -98,9 +108,11 @@ The plays were then performed in the course of various editions of Teatro della 
 :::
 </div>
 
-</br>
 
-#### Cyberchallenge.IT&nbsp;&nbsp;<i class="bi bi-laptop"></i>
+
+
+
+#### Cyberchallenge.IT <i class="bi bi-laptop"></i>
 <div style="text-align: justify">
 **Institution**:  _University of Trento_ (Italy) in partnership with _Laboratorio Nazionale di Cybersecurity_ (CINI)
 **Date**: 02/2021-06/2021
@@ -110,7 +122,7 @@ CyberChallenge.IT is a course designed to provide the methodological and practic
 
 </br>
 
-#### Bachelor's Degree in Physics&nbsp;&nbsp;<i class="bi bi-mortarboard"></i>
+#### Bachelor's Degree in Physics <i class="bi bi-mortarboard"></i>
 <div style="text-align: justify">
 
 **Thesis**: _Emergent features: from renormalization group to artificial intelligence_  
@@ -136,9 +148,7 @@ After graduating, I enrolled in the course "Introduction to Data Science for Phy
 :::
 </div>
 
-</br>
-
-#### Innovationcamp Diploma&nbsp;&nbsp;<i class="bi bi-lightbulb"></i>
+#### Innocationcamp Diploma <i class="bi bi-lightbulb"></i>
 <div style="text-align: justify">
 **Institution**:  _University of Trento_ (Italy) in partnership with _Samsung_
 **Date**: 02/2020-04/2023
