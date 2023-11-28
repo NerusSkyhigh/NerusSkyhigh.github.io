@@ -74,9 +74,9 @@ The plays were then performed in the course of various editions of Teatro della 
 #### PhD in  Physics <i class="bi bi-mortarboard"></i>
 <div style="text-align: justify">
 
-**Scholarship**: _Combining physics, biology and machine learning to understand genome organization in cancer cells_. 
-**Grou:**: [Statistical and Biological Physics Group](https://sbp.physics.unitn.it/)  
-**Supervisor**: prof. [L. Tubiana](https://sbp.physics.unitn.it/luca-tubiana/)
+**Scholarship**: _Combining physics, biology and machine learning to understand genome organization in cancer cells_  
+**Group**: [Statistical and Biological Physics Group](https://sbp.physics.unitn.it/)  
+**Supervisor**: prof. [L. Tubiana](https://sbp.physics.unitn.it/luca-tubiana/)  
 </div>
 
 </br>
